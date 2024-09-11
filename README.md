@@ -1,7 +1,3 @@
-To enhance the documentation, you can add the YouTube playlist link in a resources section at the end. Here's the updated version:
-
----
-
 # Bowling Game Documentation
 
 ## Introduction
